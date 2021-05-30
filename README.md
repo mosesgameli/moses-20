@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moses!
 - 👀 I’m interested in mobile software, data science and artificial intelligence
-- 🌱 I’m currently learning to build beatiful apps with flutter
+- 🌱 I’m currently learning to build beatiful apps with Flutter
 - 💞️ I’m looking to collaborate on anything related to Dart and Flutter
 - 📫 Reach me via mosesgameli20@gmail.com
 
